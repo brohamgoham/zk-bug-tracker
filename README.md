@@ -1,6 +1,7 @@
 # ZK Bug Tracker OnChain Investigations
 A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto.
 
+#  OnChain Investigations
 There are two sections - *Bugs in the Wild* and *Common Vulnerabilities*.
 The *Bugs in the Wild section* is a list of actual bugs found in zk related codebases.
 The *Common Vulnerabilities* section outlines the common categories of zk related bugs that have been found.
