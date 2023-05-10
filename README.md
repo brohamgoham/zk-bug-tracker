@@ -1,4 +1,4 @@
-# ZK Bug Tracker
+# ZK Bug Tracker OnChain Investigations
 A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto.
 
 There are two sections - *Bugs in the Wild* and *Common Vulnerabilities*.
